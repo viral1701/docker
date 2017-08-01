@@ -1,0 +1,4 @@
+﻿FROM microsoft/windowsservercore
+EXPOSE 9090
+ADD installchocolatey.ps1 C:\installchocolatey.ps1
+RUN powershell C:\installchocolatey.ps1
