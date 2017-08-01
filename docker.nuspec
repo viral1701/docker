@@ -4,7 +4,7 @@
         <id>Docker</id>
         <authors>Viral</authors>
         <description>Viral's Repo</description>
-        <version>0.1</version>
+        <version>0.0.1</version>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     </metadata>
     <files>
